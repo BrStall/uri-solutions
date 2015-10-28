@@ -1,3 +1,3 @@
 # uri-solutions
 https://www.urionlinejudge.com.br/
-C++
+solving URI problems with C++
